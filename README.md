@@ -1,7 +1,7 @@
 # ML-6123-project
 ahmettt 111111111
 hello this is fangzhou
-
+we will have a meeting every thursdays at 4pm
 
 
 
