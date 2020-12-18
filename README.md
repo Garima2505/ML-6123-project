@@ -1,6 +1,2 @@
 # Image Coloration Project
-
-Contributors:
-Ahmet Gizik
-Garima Chaudhary
-Fangzhou 
+![image](Images/image1.jpg?raw=true)
